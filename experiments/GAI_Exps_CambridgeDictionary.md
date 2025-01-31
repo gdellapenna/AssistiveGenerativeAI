@@ -1,4 +1,4 @@
-# Website: [Wikipedia](https://www.wikipedia.it/)
+# Website: [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/)
 
 > [Screenshot](screenshots/CambridgeDictionary_screenshot.png)
 
