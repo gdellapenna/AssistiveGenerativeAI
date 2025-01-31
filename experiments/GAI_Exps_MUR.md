@@ -23,7 +23,6 @@ Here are some of the main news items currently on the Ministry of University and
 
 **Correct Answer?**: *Yes*    
 
-
 ### [QM4] Is there information on the latest published decree laws on this page?
 
 Yes, the Ministry of University and Research page contains information on the latest published decree laws. Here are some examples: - Ministerial Decree no. 1676 of 10/31/2024: Integration of the basic quota FFO 2024, published on November 18, 2024. - Ministerial Decree no. 1673 of 10/29/2024: Extraordinary Plan for the career progression of permanent researchers with national scientific qualification, published on November 18, 2024. - Legislative Decree no. 160 of October 28, 2024: Urgent provisions on work, universities, research and education for better implementation of the National Recovery and Resilience Plan.
@@ -42,3 +41,12 @@ Yes, the Ministry of University and Research page contains information on the la
 **Correct Answer?**: *Yes*    
 **Comment**:  *Found two types of competition pages, one deeply nested in the side drop-down menu, and one linked to an entry in the footer*
 
+-----------------------------------------------------------------
+
+|                               | **MUR** |              |
+| ----------------------------- |:--------------:|:------------:|
+|                               | *Structure*    | *Navigation* |
+| **Total questions**           | 4              | 1            |
+| **Correct answers**           | 3              | 1            |
+| **Partially correct answers** | 1              | -            |
+| **Incorrect answers**         | -              | -            |

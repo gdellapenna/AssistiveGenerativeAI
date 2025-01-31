@@ -64,3 +64,13 @@ From the web page that you opened, it seems that you can contact the University 
 
 **Correct Answer?**: *Yes*    
 **Comment**: *Good, found different potential links from different locations on the webpage*
+
+-----------------------------------------------------------------
+
+|                               | **Univaq** |              |
+| ----------------------------- |:--------------:|:------------:|
+|                               | *Structure*    | *Navigation* |
+| **Total questions**           | 6              | 2            |
+| **Correct answers**           | 4              | 1            |
+| **Partially correct answers** | 1              | 1            |
+| **Incorrect answers**         | 1              | -            |
