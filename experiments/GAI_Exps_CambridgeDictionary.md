@@ -2,7 +2,9 @@
 
 > [Screenshot](screenshots/CambridgeDictionary_screenshot.png)
 
-### [QC1] Questions about web page structure and contents
+## Questions about web page structure and contents
+
+### [QC1] Can you describe me the structure of this page?
 
 Here's a breakdown of the structure of the Cambridge English Dictionary page: 1. Navigation Menu: Located at the top of the page, it includes options like Dictionary, Translate, Grammar, Thesaurus, +Plus, Shop, and Log in / Sign up. 2. Search Bar: Positioned below the navigation menu, where you can type in words to look up their definitions. 3. Main Content Area: This section displays the dictionary's main features, including: - Popular Searches: A list of frequently searched words.  - Browse the English Dictionary: An alphabetical index to browse words.  - Key Features: Highlights of the dictionary's capabilities, such as clear definitions, audio pronunciations, and real examples. 4. Acknowledgements: Information about the dictionaries included in the Cambridge Dictionary website. 5. Blog: Articles and updates related to language and dictionary usage. 6. Word of the Day: A daily feature showcasing a new word with its definition and pronunciation. 7. Cambridge Dictionary +Plus: A section for additional features like word lists and quizzes. 8. Footer: Contains links to various resources, including accessibility options, privacy policy, and terms of use.
 
