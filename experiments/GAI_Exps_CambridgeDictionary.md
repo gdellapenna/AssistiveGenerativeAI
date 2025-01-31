@@ -55,7 +55,7 @@ Yes, you can switch to a bilingual dictionary on the Cambridge English Dictionar
 |                               | **Cambridge Dictionary** |              |
 | ----------------------------- |:--------------:|:------------:|
 |                               | *Structure*    | *Navigation* |
-| **Total questions**           | 1              | 5            |
+| **Total questions**           | 1              | 6            |
 | **Correct answers**           | 1              | 4            |
 | **Partially correct answers** | -              | 2            |
 | **Incorrect answers**         | -              | -            |
