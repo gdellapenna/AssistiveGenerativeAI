@@ -4,73 +4,103 @@
 
 ## Questions about web page structure and contents
 
-### [QU1] Can you tell me if there is a computer science course?
+### [QU1] Looking at this page, can you tell me if this university offers a computer science degree?
 
-The University of L'Aquila offers a Degree Course in Computer Science at the Department of Engineering and Information Science and Mathematics. Here are some details about this course: Specific educational objectives: The Degree Course in Computer Science provides the skills needed to operate in the fields of specification, design, development, management and maintenance of software systems and computer networks. Graduates are prepared to enter software development projects, configure and manage network services, start and manage data processing centers, provide support for management decisions in the field of automation, computerization and problem modeling, and design systems for the generation, transmission and processing of information. Furthermore, the course provides theoretical and methodological knowledge to integrate skills in interdisciplinary fields, follow the evolution of new technologies and identify new fields of application of computer science disciplines1. • GRIN Seal: The Computer Science Degree Course has the “GRIN Seal”, which certifies the quality of the content of the three-year and master's degrees in computer science. This certification is based on criteria that evaluate how much and what kind of computer science is taught, the related mathematics and the presence of tenured computer science teachers1. • Laboratories and internships: The course is characterized by a marked presence of laboratory courses, which constitute a fundamental and essential element. Furthermore, students have the opportunity to carry out internships and traineeships at companies, facilitating the transfer of skills from the University to the world of work.
-
-**Correct Answer?**: *Yes*    
-**Comment**: *Correct, information comes from the website and its inner pages*
- 
-
-### [QU2] Can you also tell me the list of exams that are in the computer science course?
-
-The Computer Science Degree Course at the University of L'Aquila offers a series of exams that cover various aspects of computer science. Here are some of the typical exams that students can take during their studies: 1. Integral and Differential Calculus: Essential mathematical foundations for computer science. 2. Discrete Mathematics: Mathematical concepts useful for solving computational problems. 3. Mathematical Logic: Logical tools for programming and algorithmic analysis. 4. Probability Calculus: Basis for the theory of algorithms and artificial intelligence. 5. Basic Physics: Physical principles applicable to computer systems. 6. Computer systems architecture: Study of the hardware and software components of computers. 7. Algorithms and data structures: Fundamental for the efficient design of algorithms. 8. Programming languages ​​and paradigms: Study of programming languages ​​and development paradigms. 9. Operating Systems: Concepts related to the management of system resources. 10. Databases: Design and management of databases. 11. Distributed Systems and Communication Networks: Study of distributed systems and networks. Remember that this is just an overview and that there may be additional specific exams offered by the Computer Science Degree Course. For complete details, I recommend you consult the official website of the Computer Science Degree Course or the Informatica@Univaq page.
-
-**Correct Answer?**: *No*    
-**Comment**: *Information is very generic and not specific to the computer science degree at this university.*
-
-### [QU3] Can you tell me if there is a web engineering exam?
-
-In the Master's Degree in Computer Science at the University of L'Aquila, there is a specific exam in Web Engineering. This course focuses on the design, development and management of web applications. Here are the details of the exam: • Name of the exam: Web Engineering. • University training credits (CFU): 6. • Duration: 48 hours. • Semester: Second semester. The Web Engineering exam covers topics such as: • Web user interface design. • Web application development. • Database management for web applications. • Security and performance optimization for websites. For more information on the detailed program, I recommend you consult the University's Course Catalog.
+Yes, the Università degli Studi dell'Aquila offers a computer science degree. Specifically, they have programs in the Department of Engineering and Information Sciences and Mathematics.
 
 **Correct Answer?**: *Yes*    
-**Comment**: *The information is correct and is probably obtained by merging the web page information with a search on the linked pages, such as the course catalogue correctly addressed in the answer.*
+**Comment**: *However, the GAI here is being likely connecting the current page contents (from where it derives the University name) and some external search, since the current page does not contain any information about the requested degree.*
 
-### [QU4] (continued from previous question) Can you tell me who teaches it
+### [QU2] Can you tell me if there is a menu on the page?
 
-The Computer Science Degree Course at the University of L’Aquila is taught by Associate Professor Giuseppe Della Penna. Prof. Della Penna is an expert in the field of Software Engineering, with particular interest in formal methods, security and web engineering. His research ranges from formal languages ​​to software verification (model checking), from planning to conceptual modeling and cybersecurity. Currently, Prof. Della Penna is responsible for teaching Web Engineering, Advanced Web Development and Databases Lab in the Computer Science Degree Course, as well as the Web API course in the Mobile and Web Technology Master’s Degree. Furthermore, he is the main tutor for the Computer Science Master’s Degree students, providing support for all matters related to their study plan1. You can contact Prof. Della Penna via his email: giuseppe.dellapenna@univaq.it. His office hours are Wednesdays from 3:00 PM to 5:00 PM, but it is advisable to agree on the office hours with the teacher in advance.
+Yes, the Università degli Studi dell'Aquila website has a menu. You can find it at the top of the page with options like "Ateneo," "Didattica," "Ricerca," "Internazionalità," and more. This menu helps you navigate through different sections of the university's offerings and services.
+
+**Correct Answer?**: *Yes*    
+
+### [QU3] Can you tell me if the "didattica" item in the site top menu has a submenu, and in this case can you list me its sub items?
+
+Yes, the "Didattica" item in the top menu of the Università degli Studi dell'Aquila website does have a submenu. Here are the sub-items:
+
+1. Offerta formativa: Information about the courses offered. 2. Calendario accademico: Academic calendar and important dates. 3. E-learning: Online learning resources. 4. Tirocini e stages: Internships and stages for students. 5. Erasmus: Information about the Erasmus program. 6. Esami di Stato: State exams. 7. Servizi per studentesse e studenti con disabilità e con DSA: Services for students with disabilities and specific learning disorders. 8. Valutazione della didattica: Evaluation of teaching. 9. Modulistica: Forms and documents. 10. Link utili: Useful links.
 
 **Correct Answer?**: *Partially*    
-**Comment**: *Even if the answer starts incorrectly (cites the entire degree and not the specific course), the information is correct probably obtained by merging the site contents with the related pages such as the course catalogue*
- 
-### [QU5] Can you tell me if there is a menu on the page?
+**Comment**: *The list is not exhaustive (some sub-items are missing) and some item names where abbreviated..*
 
-Yes, on the opened web page there are several sections that work like a menu. Here are some of the main sections that could be considered parts of the menu: - University: Includes information on the history of the university, organization, regulations, planning documents, and other institutional details. - Teaching: Contains information on the departments, the educational offer, teaching innovation, and student services. - Research: Offers details on research facilities, regulations, funding, and research-related events. - Internationalization: Presents information on international study courses, international mobility, and calls for international students. These sections are accessible through the main menu of the page, which helps users navigate through the various contents offered by the university.
+### [QU4] Can you tell me if you find any contacts at the bottom of the page?
+
+Yes, at the bottom of the Università degli Studi dell'Aquila page, you can find contact information. Here are the details:
+Address: Palazzo Camponeschi, piazza Santa Margherita 2, 67100 L'Aquila. Email: webmaster@univaq.it for general inquiries and technical issues. Phone: 0861 211395. If you need more specific contact information, you can visit their contact page (https://www.univaq.it/section.php?id=900).
+
+**Correct Answer?**: *No*    
+**Comment**: *Only the address is actually correct and present on the page. The email is one of the addresses published on the contacts page (whose proposed link is indeed correct) and the phone number does not even correspond to the city of L'Aquila.*
+
+### [QU5] Are there any important deadlines reported on this page?
+
+Yes, there are several important deadlines reported on the Università degli Studi dell'Aquila page:
+
+1. Enrollment and Admissions: July - October: Admissions and enrollments period. July - September: TOLC@CASA test period. 31 October: Deadline for renewing enrollments. 2. Classes and Exams: September/October: Start of classes. January - May: Payment of tuition fees. 3. Events: Street Science: Held on the last Friday of September. If you need more detailed information, you can visit the academic calendar (https://www.univaq.it/section.php?id=412).
 
 **Correct Answer?**: *Yes*    
 
-### [QU6] Can you tell me if you find any contacts at the bottom of the page?
+### [QU6] Has this page accessibility features such as high contrast version or a font size selector?
 
-Yes, at the bottom of the page there are various contact information for the University of L'Aquila. Here are the details: PEC (Certified Electronic Mail): This is a type of certified email used in Italy for official communications. Contacts: Section dedicated to the general contacts of the university. URP: Public Relations Office, which deals with providing information and assistance to citizens. This information is typically used for requests for information or for official communications.
+Yes, the Università degli Studi dell'Aquila website does have accessibility features. At the top of the page, you can find options to adjust the font size by clicking on the "A A" button. This allows you to increase or decrease the text size for better readability.
 
-**Correct Answer?**: *Yes*    
-**Comment**: *Correctly discovered the contact-related links between the footer contents*
+**Correct Answer?**: *Yes*  
+
 
 
 ## Questions about web page navigation and interaction
 
 
-### [QU7] Can you tell me where I can click to open the secretary section?
+### [QU7] How can I interact with the menus of this site to reach the university course catalogue?
 
-If you are looking for information about the student secretary at the University of L'Aquila, here is how you can access it: 1. Quick Access Menu: At the top of the page, look for the "Quick Access" option. Hover your mouse over it to display the drop-down menu. 2. In the drop-down menu, click on "Student Secretariats" to access the related information. If you cannot find this option, it may be useful to use the site's search function, typing "student secretary" in the search field.   Also, if you are interested in opening a VAT number as a secretary, I recommend you read the guide we have prepared for you. The VAT number is an alphanumeric code that identifies a professional as a taxpayer. If you carry out activities as a freelance secretary, you will certainly have to open your VAT number. Remember that the operation is not complicated, but it is important to do it correctly or rely on an expert accountant or chartered accountant.
+To reach the university course catalogue on the Università degli Studi dell'Aquila website, follow these steps:
+1. Navigate to the Top Menu: At the top of the page, you'll see a menu with several options. 2. Hover Over "Didattica": This will reveal a submenu with various options. Select "Offerta formativa": Click on this option to access the course catalogue. Alternatively, you can directly visit the course catalogue (https://www.univaq.it/section.php?id=1977) page.
 
-**Correct Answer?**: *Partially*    
-**Comment**: *The navigation directions are correct and detailed. The second part of the answer is totally out of scope, but luckily not linked to the first part.*
+**Correct Answer?**: *No*    
+**Comment**: *The item path is correct, but the related page does not contain the requested content. However, the given direct link is correct.*
 
+### [QU8] Can you tell me where I can click to open the secretary section?
 
-### [QU8] Can you tell me where I should click to contact someone?
-
-From the web page that you opened, it seems that you can contact the University of L'Aquila through several options. To contact someone, you may want to look for sections such as "Contacts", "Help Point" or "URP" (Public Relations Office). These sections usually provide information on how to reach the university or specific people within the institution. You may also find the links to the "Virtual Secretariat" or "Online Services" useful, as they may offer additional ways to interact with the university.
+To access the secretary section on the Università degli Studi dell'Aquila website, you can click on the "Segreteria virtuale" link in the menu at the top of the page. This will take you to the virtual secretary section where you can find various administrative services and information.
 
 **Correct Answer?**: *Yes*    
-**Comment**: *Good, found different potential links from different locations on the webpage*
+
+### [QU9] Can you tell me where I should click to contact someone?
+
+To contact someone at the Università degli Studi dell'Aquila, you can scroll to the bottom of the page and click on the "Contatti" link. This will take you to the contact page where you can find various ways to get in touch with the university.
+
+**Correct Answer?**: *Yes*    
+
+### [QU10] How can I proceed on this page to enroll to this university?
+
+To enroll at the Università degli Studi dell'Aquila, follow these steps:
+1. Visit the Enrollment Section: Go to the "Immatricolarsi" section on the university's website. You can find it by navigating to the "Studenti" menu and selecting "Immatricolarsi". 2. Choose Your Course: Select the type of course you want to enroll in, such as a Bachelor's degree (Corsi di laurea di I livello) or a Master's degree (Corsi di laurea magistrale). 3. Follow the Instructions: Each course type has specific enrollment instructions. Make sure to read and follow them carefully. You may need to provide various documents and complete certain forms. 4. Submit Your Application: Once you have gathered all the necessary documents and completed the forms, submit your application through the university's online portal. 5. Check Deadlines: Be aware of the enrollment deadlines and make sure to submit your application on time. If you need more detailed information or assistance, you can visit the enrollment page (https://www.univaq.it/section.php?id=35) on the university's website.
+
+**Correct Answer?**: *No*       
+**Comment**: *Even if the general procedure and the link given are essentially correct, such information does not derive from this page. The items described are not present on the site menu. However, looking at the page source, it is possible to see that actually such menus are coded, but permanently hidden, probably as a part of a "dead part" of the site structure. This shows how badly-written pages, with too much useless elements, may confuse the GAI*
+
+### [QU11] How can I search for someone from this page?
+
+To search for someone on the Università degli Studi dell'Aquila website, you can use the "Chi e dove" section. Here's how to find it:
+1. Navigate to the Top Menu: At the top of the page, you'll see a menu with several options. 2. Select "Chi e dove": Click on this option to access the directory where you can search for faculty, staff, and other members of the university.
+
+**Correct Answer?**: *Yes*    
+
+### [QU12] Can I read this page also in English?
+
+Yes, you can read the Università degli Studi dell'Aquila website in English. At the top of the page, you will find an "EN" button. Clicking on this button will switch the language to English, allowing you to navigate the site and access information in English.
+
+**Correct Answer?**: *Yes*    
+
 
 -----------------------------------------------------------------
 
 |                               | **Univaq** |              |
 | ----------------------------- |:--------------:|:------------:|
 |                               | *Structure*    | *Navigation* |
-| **Total questions**           | 6              | 2            |
-| **Correct answers**           | 4              | 1            |
-| **Partially correct answers** | 1              | 1            |
-| **Incorrect answers**         | 1              | -            |
+| **Total questions**           | 6              | 6            |
+| **Correct answers**           | 4              | 4            |
+| **Partially correct answers** | 1              | -            |
+| **Incorrect answers**         | 1              | 2            |
