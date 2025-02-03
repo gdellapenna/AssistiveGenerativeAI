@@ -17,7 +17,7 @@ On the Tripadvisor page, you can search for a wide range of travel-related infor
 Yes, the Tripadvisor page has several menus that allow you to easily navigate between the different sections. Here are some of the main menus: - Hotels: Find and compare hotels in different destinations. - Things to Do: Discover tours, attractions and things to do in different locations. - Restaurants: Search for restaurants and read traveler reviews. - Flights: Compare flight prices to multiple destinations. - Vacation Rentals: Find vacation rentals and apartments. - Places to Visit: Explore top destinations and attractions.
 
 **Correct Answer?**: *No*    
-*The list of items at the top of the page has been detected as a menu, but it is actually the category selector for the search box. However, this would be ambiguous also for the human reader*
+**Comment**: *The list of items at the top of the page has been detected as a menu, but it is actually the category selector for the search box. However, this would be ambiguous also for the human reader*
 
 ### [QT3] Are there directions to the best restaurants on this page?
 
