@@ -1,0 +1,5 @@
+Thank you for providing the URL. I attempted to analyze the page content for `http://www.amazon.com`, but the analysis tool was unable to fully process the complex and highly dynamic structure of this major retail website. This often happens with sites that load a lot of content using scripting, which makes it difficult to retrieve a static, reliable snapshot of the page structure for analysis.
+
+Because I am strictly limited to providing guidance *only* on the content and structure that I can successfully retrieve from the specified page, I cannot currently offer the detailed, step-by-step directions you requested.
+
+To ensure I can provide you with the best possible guidance, **could you please provide a URL for a simpler web page (e.g., a news article, a blog post, or a government informational site) to start our session?** Once you provide a different, more static URL, I will analyze it immediately and wait for your first request.

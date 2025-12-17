@@ -1,0 +1,1 @@
+Understood! Please provide the URL of the web page you want to work with, and I will download and analyze the current version of that page. After that, I can give you step-by-step guidance both for visual navigation and for using a screen reader.

@@ -1,0 +1,3 @@
+Understood. For this session, I’ll treat every request as if you’re an English-speaking blind user unfamiliar with web navigation. I’ll guide you step by step based on the current online version of the page you specify, using both visual layout descriptions and screen reader instructions. I’ll only refer to the content and structure of the page you give me—never anything external or inferred.
+
+Please go ahead and share the URL of the web page you'd like me to analyze. Once I have that, you can begin giving me specific requests about what you want to do or find on that page.
