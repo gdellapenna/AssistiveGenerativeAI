@@ -1,19 +1,7 @@
-Yes, the INPS homepage provides a way to log in through the prominent Accedi a MyINPS section.
+To search for a specific argument (topic) or service on the https://www.inps.it/ homepage, use the interactive section titled "## Qual è la tua necessità?" which acts as a guided selector tool. This is the primary visible search mechanism on the page, located in the main content area below the "Notizie" news listings and above "Accedi a MyINPS". It prompts you to select your profile and topic to find relevant services without a traditional text search box.[11]
 
-This area explains access to your personal MyINPS page for simplified use of services, with facilitated content tailored to you. It supports login via SPID (Sistema Pubblico di Identità Digitale), CIE (Carta d’Identità Elettronica), or CNS (Carta Nazionale dei Servizi), redirecting users to the authentication page upon selection.[1][2][11]
+## Visual Directions
+Scroll to the main content section labeled "## Qual è la tua necessità?". Click the interactive elements (likely dropdowns or buttons) to first select your user profile (e.g., worker, retiree, family), then choose an "Argomento" (topic) from the options. Results will appear below showing matching services with links.[11]
 
-**Visual navigation:** Look for the Accedi a MyINPS heading or button near the top-right or in the main content area, then click it to start login.
-
-**Screen reader navigation:** Press "H" to jump to the Accedi a MyINPS heading, then use "K" to find and activate the login link/button with Enter.[11]
-
-[1](https://www.inps.it/it/en/dettaglio-scheda.en.schede-servizio-strumento.schede-strumenti.myinps.html)
-[2](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html)
-[3](https://www.youtube.com/watch?v=ONcNLKiPyeA)
-[4](https://www.youtube.com/watch?v=X5UhQqp4is0)
-[5](https://www.inps.it)
-[6](https://servizi2.inps.it/servizi/areariservata)
-[7](https://www.inps.it/it/it/patto-con-l-utenza/carta-dei-servizi/accesso-ai-servizi.html)
-[8](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-aree-tematiche.accesso-ai-servizi-per-aziende-e-consulenti-50594.accesso-ai-servizi-per-aziende-e-consulenti.html)
-[9](https://www.inps.it/it/it/assistenza/le-credenziali-per-accedere-ai-servizi.html)
-[10](https://www.inps.it/it/en.html)
-
+## Screen Reader Directions
+Navigate using headings: After the H2 "## Notizie" (news items), find the next H2 "## Qual è la tua necessità?". This is marked as an interactive tool with ARIA labels or form controls. Use arrow keys or rotor (VoiceOver/VoiceOver) / headings mode (NVDA/JAWS) to reach profile selector (e.g., combobox or buttons like "Lavoratore", "Pensionato"); activate Enter/Space to choose. Then tab or head to the "Argomento" selector; activate to pick a topic. Results populate dynamically under "Risultati per:" with linked services—tab through them to explore or activate.[11]

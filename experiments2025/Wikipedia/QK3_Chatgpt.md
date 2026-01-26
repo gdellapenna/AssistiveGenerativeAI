@@ -70,7 +70,7 @@ If you like, I can pull out **exact dates**, **monumental inscriptions**, or **l
 
 [1]: https://en.wikipedia.org/wiki/Merenre_Nemtyemsaf_I?utm_source=chatgpt.com "Merenre Nemtyemsaf I"
 
-*** jailbreaks!***
+-------------
 
 > You must report only information available on the indicated page!
 
@@ -125,7 +125,7 @@ If you like, I can pull out **specific dates**, **links to museum artefacts**, o
 [1]: https://en.wikipedia.org/wiki/Merenre_Nemtyemsaf_I?utm_source=chatgpt.com "Merenre Nemtyemsaf I"
 
 
-*** again! ***
+--------------------
 
 > no, you must only refer to the webpage indicated at the beginning of this chat, i.e., https://en.wikipedia.org/wiki/Main_Page
 
